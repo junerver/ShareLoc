@@ -4,3 +4,9 @@
 - key store pw：123456
 - key alias：demoKey
 - key pw：123456
+
+## 用到的知识
+
+- 使用百度地图SDK获取用户地理位置。
+- 使用socket进行数据通信。
+- 服务端使用mina框架开发。
